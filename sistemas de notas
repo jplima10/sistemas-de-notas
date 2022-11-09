@@ -1,0 +1,6 @@
+avaliacao1 = int(input("Digite o valor da sua nota: "))
+avaliacao2 = int(input("Digite o valor da sua nota: "))
+avaliacao3 = int(input("Digite o valor da sua nota: "))
+avaliacao4 = int(input("Digite o valor da sua nota: "))
+media = (avaliacao1 + avaliacao2 + avaliacao3 + avaliacao4) / 4
+print(media)
